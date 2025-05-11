@@ -1,0 +1,10 @@
+{
+  "feedbackItems": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "type": "Bug",
+      "message": "The submit button doesn't work on mobile devices"
+    }
+  ]
+}
